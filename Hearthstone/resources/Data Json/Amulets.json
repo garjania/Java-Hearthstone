@@ -1,0 +1,64 @@
+{
+    "0":{
+        "name": "Iron Pendant",
+        "cost": 2000,
+        "spell":{
+            "detail": "Increase Player’s Max HP by 500",
+            "spell":["Increase Friendly Player Max HP by 500"]
+        }
+    },
+
+    "1":{
+        "name": "Gold Pendant",
+        "cost": 4000,
+        "spell":{
+            "detail": "Increase Player’s Max HP by 1000",
+            "spell":["Increase Friendly Player Max HP by 1000"]
+        }
+    },
+
+    "2":{
+        "name": "Diamond Pendant",
+        "cost": 8000,
+        "spell":{
+            "detail": "Increase Player’s Max HP by 2000",
+            "spell":[ "Increase Friendly Player Max HP by 2000"]
+        }
+    },
+
+    "3":{
+        "name": "Iron Ring",
+        "cost": 2000,
+        "spell":{
+            "detail": "Increase Player’s Max MP by 1",
+            "spell":["Increase Friendly Player Max MP by 1"]
+        }
+    },
+
+    "4":{
+        "name": "Gold Ring",
+        "cost": 4000,
+        "spell":{
+            "detail": "Increase Player’s Max MP by 2",
+            "spell":["Increase Friendly Player Max MP by 2"]
+        }
+    },
+
+    "5":{
+        "name": "Diamond Ring",
+        "cost": 8000,
+        "spell":{
+            "detail": "Increase Player’s Max MP by 3",
+            "spell":["Increase Friendly Player Max MP by 3"]
+        }
+    },
+
+    "6":{
+        "name": "Demon King’s Crown",
+        "cost": -1,
+        "spell":{
+            "detail": "Decrease All Incoming Damages by 20%",
+            "spell":["Decrease All Incoming Damages by 20%"]
+        }
+    },
+}

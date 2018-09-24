@@ -1,0 +1,152 @@
+{
+    "0":{
+        "name":"Throwing Knives",
+        "MP cost": 3,
+        "type": "Instant",
+        "spell":{
+            "detail": "Deal 500 damage to a selected enemy monster card on the field or to enemy player",
+            "spell":["Deal 500 damage to a selected enemy monster card on the field or to enemy player"]
+        }
+    },
+
+    "1":{
+      "name": "Poisonous Cauldron",
+      "MP cost": 4,
+      "type": "Continuous",
+      "spell":{
+        "detail": "Deal 100 damage to all enemy monster cards and enemy player",
+        "spell":["Deal 100 damage to all enemy monster card and enemy player"]
+      }
+    },
+
+    "2":{
+      "name": "First Aid Kit",
+      "MP cost": 3,
+      "type": "Instant",
+      "spell":{
+        "detail": "Increase HP of a selected friendly monster card or player by 500",
+        "spell":["Increase HP of a selected friendly monster card or player by 500"]
+      }
+    },
+
+    "3":{
+      "name": "Reaper's Scythe",
+      "MP cost": 4,
+      "type": "Instant",
+      "spell":{
+        "detail": "Send an enemy monster or spell card from field to graveyard",
+        "spell":["Send an enemy monster or spell card from field to graveyard"]
+      }
+    },
+
+    "4":{
+      "name": "Meteor Shower",
+      "MP cost": 8,
+      "type": "Continuous",
+      "spell":{
+        "detail":"Deal 800 damage to a random enemy monster card on field or player",
+        "spell":["Deal 800 damage to a random enemy monster card on field or player"]
+      }
+    },
+
+    "5":{
+      "name": "Lunar Blessing",
+      "MP cost": 6,
+      "type": "Aura",
+      "spell":{
+        "detail": "Increase AP and HP of friendly Elven monster cards by 300",
+        "spell":["Increase HP of friendly Elven monster card by 300", "Increase AP of friendly Elven monster card by 300"]
+      }
+    },
+
+    "6":{
+      "name": "Strategic Retreat",
+      "MP cost": 6,
+      "type": "Instant",
+      "spell":{
+        "detail": "Select and move a monster card from field to hand and draw one card from deck",
+        "spell":["Select and move a monster card from field to hand", "draw one card from deck"]
+      }
+    },
+
+    "7":{
+      "name": "War Drum",
+      "MP cost": 6,
+      "type": "Aura",
+      "spell":{
+        "detail": "Increase all friendly monster cards’ AP by 300",
+        "spell":["Increase all friendly monster card AP by 300"]
+      }
+    },
+
+    "8":{
+      "name": "Healing Ward",
+      "MP cost": 5,
+      "type": "Continuous",
+      "spell":{
+        "detail": "Increase all friendly monster cards’ HP by 200",
+        "spell":["Increase all friendly monster card HP by 200"]
+      }
+    },
+
+    "9":{
+      "name": "Blood Feast",
+      "MP cost": 4,
+      "type": "Instant",
+      "spell":{
+        "detail": "Deal 500 damage to enemy player and heal your player for 500 HP",
+        "spell":["Deal 500 damage to enemy player", "heal your player for 500 HP"]
+      }
+    },
+
+    "10":{
+      "name": "Tsunami",
+      "MP cost": 6,
+      "type": "Instant",
+      "spell":{
+        "detail": "Deal 500 damage to all non-Atlantian monster cards on both sides of field",
+        "spell":["Deal 500 damage to all non-Atlantian monster card on both sides of field"]
+      }
+    },
+
+    "11":{
+      "name": "Take All You Can",
+      "MP cost": 7,
+      "type": "Aura",
+      "spell":{
+        "detail": "Increase all friendly normal monster cards’ HP and AP by 400",
+        "spell":["Increase all friendly normal monster card HP by 400", "Increase all friendly normal monster card AP by 400"]
+      }
+    },
+
+    "12":{
+      "name": "Arcane Bolt",
+      "MP cost": 5,
+      "type": "Instant",
+      "spell":{
+        "detail": "Deal 500 damage to enemy player and select and move an enemy spell card from field to graveyard",
+        "spell":["Deal 500 damage to enemy player", "select and move an enemy spell card from field to graveyard"]
+      }
+    },
+
+    "13":{
+      "name": "Magic Seal",
+      "MP cost": 9,
+      "type": "Continuous",
+      "spell":{
+        "detail": "Remove all enemy spell cards from field and move them to graveyard",
+        "spell":["Remove all enemy spell card from field and move them to graveyard"]
+      }
+    },
+
+    "14":{
+      "name": "Greater Purge",
+      "MP cost": 7,
+      "type": "Instant",
+      "spell":{
+        "detail": "Remove all spell cards on field from both sides and move them to hand",
+        "spell":["Remove all spell card on field from both sides and move them to hand"]
+      }
+    },
+
+}

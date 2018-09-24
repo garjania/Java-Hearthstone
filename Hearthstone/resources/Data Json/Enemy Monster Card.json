@@ -1,0 +1,265 @@
+{
+    "0":{
+        "name": "Goblin Smuggler",
+        "defualt HP":600,
+        "defualt AP":400,
+        "MP cost":2,
+        "Type":"Normal",
+        "Tribe":"Goblin Monster",
+        "speciality":"none",
+        "battlecry":{
+            "detail":"none",
+            "spell":["none"]
+        },
+        "spell":{
+            "detail":"none",
+            "spell":["none"]
+        },
+        "will":{
+            "detail":"none",
+            "spell":["none"]
+        }
+    },
+
+  "1":{
+    "name":"Goblin Shaman",
+    "defualt HP":1000,
+    "defualt AP":700,
+    "MP cost":4,
+    "Type":"Spell Caster",
+    "Tribe":"Goblin Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Mend: Increase a friendly monster card or player’s HP by 400",
+      "spell":["Increase a friendly monster card or player HP by 400"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "2":{
+    "name":"Ogre Warrior",
+    "defualt HP":800,
+    "defualt AP":500,
+    "MP cost":3,
+    "Type":"Normal",
+    "Tribe":"Ogre Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "3":{
+    "name":"Ogre Frontliner",
+    "defualt HP":1800,
+    "defualt AP":600,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Ogre Monster",
+    "speciality":"Defender",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "4":{
+    "name":"Ogre Magi",
+    "defualt HP":1500,
+    "defualt AP":800,
+    "MP cost":5,
+    "Type":"Spell Caster",
+    "Tribe":"Ogre Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Mend: Increase a friendly monster card or player’s HP by 400",
+      "spell":["Increase a friendly monster card or player HP by 400"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "5":{
+    "name":"Ogre Warchief",
+    "defualt HP":2500,
+    "defualt AP":1500,
+    "MP cost":7,
+    "Type":"General",
+    "Tribe":"Ogre Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"War Stomp: Deal 400 damage to all enemy monster cards and player",
+      "spell":["Deal 400 damage to all enemy monster cards and player"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"Last Order: Increase all friendly monster cards’ AP by 300",
+      "spell":["Increase all friendly monster card AP by 300"]
+    }
+  },
+
+  "6":{
+    "name":"Undead",
+    "defualt HP":200,
+    "defualt AP":400,
+    "MP cost":1,
+    "Type":"Normal",
+    "Tribe":"Vampiric Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "7":{
+    "name":"Giant Bat",
+    "defualt HP":500,
+    "defualt AP":900,
+    "MP cost":3,
+    "Type":"Normal",
+    "Tribe":"Vampiric Monster",
+    "speciality":"Nimble",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "8":{
+    "name":"Stout Undead",
+    "defualt HP":1200,
+    "defualt AP":600,
+    "MP cost":4,
+    "Type":"Normal",
+    "Tribe":"Vampiric Monster",
+    "speciality":"Defender",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "9":{
+    "name":"Undead Mage",
+    "defualt HP":800,
+    "defualt AP":1000,
+    "MP cost":6,
+    "Type":"Spell Caster",
+    "Tribe":"Vampiric Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Curse: Reduce an enemy monster card’s AP by 500",
+      "spell":["Reduce an enemy monster card AP by 500"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "10":{
+    "name":"Vampire Acolyte",
+    "defualt HP":1500,
+    "defualt AP":1500,
+    "MP cost":7,
+    "Type":"Spell Caster",
+    "Tribe":"Vampiric Monster",
+    "speciality":"Nimble",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Black Wave: Deal 300 damage to all enemy monster cards and heal all friendly monster cards for 300 HP",
+      "spell":["Deal 300 damage to all enemy monster cards", "heal all friendly monster cards for 300 HP"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+
+  "11":{
+    "name":"Vampire Prince",
+    "defualt HP":2000,
+    "defualt AP":2200,
+    "MP cost":9,
+    "Type":"General",
+    "Tribe":"Vampiric Monster",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"Fear: Return two random enemy monster cards from field to hand",
+      "spell":["Return two random enemy monster cards from field to hand"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"Darkness: Reduce all enemy monster cards’ AP by 200 and increase friendly monster cards’ AP by 200",
+      "spell":["Reduce all enemy monster card AP by 200", "increase friendly monster card AP by 200"]
+    }
+  }
+}

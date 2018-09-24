@@ -1,0 +1,697 @@
+{
+  "0":{
+    "name":"Elven Ranger",
+    "defualt HP":300,
+    "defualt AP":400,
+    "MP cost":1,
+    "Type":"Normal",
+    "Tribe":"Elves",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "1":{
+    "name":"Elven Hunter",
+    "defualt HP":800,
+    "defualt AP":600,
+    "MP cost":3,
+    "Type":"Normal",
+    "Tribe":"Elves",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "2":{
+    "name":"Elven Guardsman",
+    "defualt HP":1500,
+    "defualt AP":500,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Elves",
+    "speciality":"Defender",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "3":{
+    "name":"Elven Assassin",
+    "defualt HP":800,
+    "defualt AP":1200,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Elves",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "4":{
+    "name":"Elven Druid",
+    "defualt HP":1200,
+    "defualt AP":600,
+    "MP cost":5,
+    "Type":"Spell Caster",
+    "Tribe":"Elves",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Rejuvenation: Increase a selected friendly monster card’s HP by 500 and AP by 300",
+    "spell":[
+    "Increase a selected friendly monster HP by 300",
+    "Increase a selected friendly monster AP by 300"
+    ]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "5":{
+    "name":"Elven Sorceress",
+    "defualt HP":1000,
+    "defualt AP":1000,
+    "MP cost":7,
+    "Type":"Spell Caster",
+    "Tribe":"Elves",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Arcane Explosion: Deal 400 damage to all enemy monster cards and remove a random spell card from enemy field and move it to graveyard",
+    "spell":["Decrease 400 HP from all enemy monster card",
+    "remove a random spell card from enemy field and move it to graveyard"
+    ]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "6":{
+    "name":"Noble Elf",
+    "defualt HP":2000,
+    "defualt AP":2400,
+    "MP cost":9,
+    "Type":"General",
+    "Tribe":"Elves",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"Purge: Remove all enemy spell cards on the field and move them to hand",
+    "spell":["Remove all enemy spell card on the field and move them to hand"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"Increase a random friendly Elven monster card on the field’s HP by 800 and AP by 600",
+    "spell":["Increase a random friendly Elven monster card HP by 800",
+    "Increase a random friendly Elven monster AP by 600"]
+    }
+    },
+
+  "7":{
+    "name":"Luthien, The High Priestess",
+    "defualt HP":2500,
+    "defualt AP":2000,
+    "MP cost":9,
+    "Type":"Hero",
+    "Tribe":"Elves",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"Revive Allies: move two random cards from your graveyard to hand",
+    "spell":["Move two random card from graveyard to hand"]
+    },
+    "spell":{
+    "detail":"Divine Blessing: Increase HP of a friendly monster card or player by 2500",
+    "spell":["Increase a friendly monster HP by 2500"]
+    },
+    "will":{
+    "detail":"Burst of Light: Increase HP of all friendly monster cards and player by 500 and increase AP of all friendly monster cards by 200",
+    "spell":["Increase HP of all friendly monster card by 500",
+    "Increase Player's HP by 500",
+    "Increase AP of all friendly monster card by 200"
+    ]
+    }
+  },
+
+  "8":{
+    "name":"Lesser Whelp",
+    "defualt HP":500,
+    "defualt AP":300,
+    "MP cost":1,
+    "Type":"Normal",
+    "Tribe":"DragonBreed",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+
+  "9":{
+    "name":"Dragonling",
+    "defualt HP":700,
+    "defualt AP":700,
+    "MP cost":3,
+    "Type":"Normal",
+    "Tribe":"DragonBreed",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "10":{
+    "name":"Armored Dragon",
+    "defualt HP":2000,
+    "defualt AP":400,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"DragonBreed",
+    "speciality":"Defender",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "11":{
+    "name":"Yellow Drake",
+    "defualt HP":800,
+    "defualt AP":1000,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"DragonBreed",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "12":{
+    "name":"Blue Dragon",
+    "defualt HP":800,
+    "defualt AP":1200,
+    "MP cost":5,
+    "Type":"Spell Caster",
+    "Tribe":"DragonBreed",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Magical Fire: Move an enemy monster card from field to graveyard",
+    "spell":["Move an enemy monster card from field to graveyard"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+  "13":{
+    "name":"Volcanic Dragon",
+    "defualt HP":2500,
+    "defualt AP":700,
+    "MP cost":8,
+    "Type":"Spell Caster",
+    "Tribe":"DragonBreed",
+    "speciality":"Defender",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Lava Spit: Deal 500 damage to an enemy monster card and reduce its AP by 500",
+    "spell":["Decrease 500 HP from an enemy monster card",
+    "Decrease 500 AP from an enemy monster card"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "14":{
+    "name":"Greater Dragon",
+    "defualt HP":2000,
+    "defualt AP":1800,
+    "MP cost":8,
+    "Type":"General",
+    "Tribe":"DragonBreed",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"Devour: Send a random enemy monster card from field to graveyard",
+    "spell":["Send a random enemy monster card from field to graveyard"]
+    },
+    "spell":{
+    "detail":"Lava Spit: Deal 500 damage to an enemy monster card and reduce its AP by 500",
+    "spell":["Decrease 500 HP from an enemy monster card",
+    "Decrease 500 AP from an enemy monster card"]
+    },
+    "will":{
+    "detail":"Dragon’s Call: draw two cards from deck to hand",
+    "spell":["Draw two card from deck to hand"]
+    }
+  },
+  "15":{
+    "name":"Igneel, The Dragon King",
+    "defualt HP":4000,
+    "defualt AP":800,
+    "MP cost":10,
+    "Type":"Hero",
+    "Tribe":"DragonBreed",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"King’s Grace: Send all non-Hero monster cards on both sides of field to their graveyards",
+    "spell":["Send all non-Hero monster card on both sides of field to their graveyards"]
+    },
+    "spell":{
+    "detail":"King’s Wing Slash: Deal 600 damage to all enemy monster cards and player",
+    "spell":["Decrease 600 HP from all enemy monster card and Player"]
+    },
+    "will":{
+    "detail":"King’s Wail: Decrease all enemy monster cards’ AP by 400",
+    "spell":["Decrease all enemy monster card AP by 400"]
+    }
+  },
+  "16":{
+    "name":"Murloc Crawler",
+    "defualt HP":200,
+    "defualt AP":500,
+    "MP cost":1,
+    "Type":"Normal",
+    "Tribe":"Atlantian",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "17":{
+    "name":"Murloc Warrior",
+    "defualt HP":600,
+    "defualt AP":600,
+    "MP cost":2,
+    "Type":"Normal",
+    "Tribe":"Atlantian",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "18":{
+    "name":"Giant Crab",
+    "defualt HP":1500,
+    "defualt AP":300,
+    "MP cost":4,
+    "Type":"Normal",
+    "Tribe":"Atlantian",
+    "speciality":"Defender",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "19":{
+    "name":"Shark Man",
+    "defualt HP":900,
+    "defualt AP":1200,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Atlantian",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+  "20":{
+    "name":"Naga Siren",
+    "defualt HP":1200,
+    "defualt AP":600,
+    "MP cost":6,
+    "Type":"Spell Caster",
+    "Tribe":"Atlantian",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Song of the Siren: Increase HP of all friendly monster cards by 300 and their AP by 200",
+    "spell":["Increase HP of all friendly monster card by 300",
+    "Increase AP of all friendly monster card by 200"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+  },
+
+  "21":{
+    "name":"Sea Serpent",
+    "defualt HP":1500,
+    "defualt AP":1200,
+    "MP cost":7,
+    "Type":"Spell Caster",
+    "Tribe":"Atlantian",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "spell":{
+    "detail":"Serpent’s Bite: Deal 1000 damage to an enemy monster card or player",
+    "spell":["Deacrease 1000 HP from an enemy monster card or enemy player"]
+    },
+    "will":{
+    "detail":"none",
+    "spell":["none"]
+    }
+    },
+
+    "22":{
+    "name":"Kraken",
+    "defualt HP":1800,
+    "defualt AP":2200,
+    "MP cost":8,
+    "Type":"General",
+    "Tribe":"Atlantian",
+    "speciality":"none",
+    "battlecry":{
+    "detail":"Titan’s Presence: Return one random enemy monster card from field to hand and reduce all enemy monsters’ AP by 200",
+    "spell":["Return one random enemy monster card from field to hand",
+    "Decrease all enemy monster card AP by 200"]
+    },
+    "spell":{
+    "detail":"none",
+    "spell":["none"]
+    },
+    "will":{
+    "detail":"Titan’s Fall: Deal 400 damage to all enemy monster cards and player",
+    "spell":["Decrease 400 HP from all enemy monster card and enemy player"]
+    }
+    },
+
+    "23":{
+    "name":"Neptune, King of Atlantis",
+    "defualt HP":2200,
+    "defualt AP":2500,
+    "MP cost":10,
+    "Type":"Hero",
+    "Tribe":"Atlantian",
+    "speciality":"Nimble",
+    "battlecry":{
+    "detail":"Call to Arms: Select and move a card from hand to play field",
+    "spell":["Move a card from hand to play field"]
+    },
+    "spell":{
+    "detail":"Trident Beam: Deal 800 damage to three random enemy monster cards or player",
+    "spell":["Decrease 800 HP from three random enemy monster card or player"]
+    },
+    "will":{
+    "detail":"Ocean’s Cry: Deal 400 damage to all enemy monster cards and player and increase all friendly Atlantian monster card's AP by 500",
+    "spell":["Decrease 800 HP from all enemy monster card and enemy player",
+    "Increase all friendly Atlantian monster card AP by 500"]
+    }
+    },
+  "24":{
+    "name":"Imp",
+    "defualt HP":300,
+    "defualt AP":500,
+    "MP cost":2,
+    "Type":"Normal",
+    "Tribe":"Demonic",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "25":{
+    "name":"Shade",
+    "defualt HP":500,
+    "defualt AP":800,
+    "MP cost":3,
+    "Type":"Normal",
+    "Tribe":"Demonic",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "26":{
+    "name":"Living Armor",
+    "defualt HP":1500,
+    "defualt AP":400,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Demonic",
+    "speciality":"Defender",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "27":{
+    "name":"Hellhound",
+    "defualt HP":800,
+    "defualt AP":1000,
+    "MP cost":5,
+    "Type":"Normal",
+    "Tribe":"Demonic",
+    "speciality":"Nimble",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "28":{
+    "name":"Evil Eye",
+    "defualt HP":400,
+    "defualt AP":400,
+    "MP cost":6,
+    "Type":"Spell Caster",
+    "Tribe":"Demonic",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Evil Gaze: Deal 800 damage to all enemy monster cards and player",
+      "spell":["Decrease 800 HP from all enemy monster cards and player"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "29":{
+    "name":"Necromancer",
+    "defualt HP":1200,
+    "defualt AP":1500,
+    "MP cost":7,
+    "Type":"Spell Caster",
+    "Tribe":"Demonic",
+    "speciality":"Nimble",
+    "battlecry":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "spell":{
+      "detail":"Raise Dead: Move a random card from your graveyard to hand",
+      "spell":["Move a random card from your graveyard to hand"]
+    },
+    "will":{
+      "detail":"none",
+      "spell":["none"]
+    }
+  },
+  "30":{
+    "name":"Dark Knight",
+    "defualt HP":2500,
+    "defualt AP":2500,
+    "MP cost":8,
+    "Type":"General",
+    "Tribe":"Demonic",
+    "speciality":"none",
+    "battlecry":{
+      "detail":"Sacrifice: Select and move a card from hand to graveyard",
+      "spell":["Select and move a card from hand to graveyard"]
+    },
+    "spell":{
+      "detail":"none",
+      "spell":["none"]
+    },
+    "will":{
+      "detail":"Loyalty: Heal your player for 1000 HP",
+      "spell":["Increase player HP by 1000"]
+    }
+  },
+  "31":{
+    "name":"Cerberus, Gatekeeper of Hell",
+    "defualt HP":3000,
+    "defualt AP":2000,
+    "MP cost":10,
+    "Type":"Hero",
+    "Tribe":"Demonic",
+    "speciality":"Nimble",
+    "battlecry":{
+      "detail":"Open the Gate: Draw three cards from deck to hand",
+      "spell":["Draw three cards from deck to hand"]
+    },
+    "spell":{
+      "detail":"Hellfire: Deal 300 damage to all enemy monster cards and Increase HP and AP of all friendly monster cards by 300",
+      "spell":["Decrease 300 HP from all enemy monster cards",
+               "Increase all friendly monster card HP by 300",
+               "Increase all friendly monster card AP by 300"]
+    },
+    "will":{
+      "detail":"Revenge of the Two Heads: Send two random enemy monster cards from field to graveyard",
+      "spell":["Send two random enemy monster cards from field to graveyard"]
+    }
+  }
+
+}

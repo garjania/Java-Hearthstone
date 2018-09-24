@@ -1,0 +1,73 @@
+{
+    "0":{
+        "name": "Small HP Potion",
+        "cost": 1000,
+        "spell":{
+            "detail": "Increase Player's HP by 500",
+            "spell":["Increase Friendly Player HP by 500"]
+        }
+    },
+
+  "1":{
+    "name": "Medium HP Potion",
+    "cost": 2000,
+    "spell":{
+      "detail": "Increase Player's HP by 1000",
+      "spell":["Increase Friendly Player HP by 1000"]
+    }
+  },
+
+  "2":{
+    "name": "Large HP Potion",
+    "cost": 4000,
+    "spell":{
+      "detail": "Increase Player's HP by 2000",
+      "spell":["Increase Friendly Player HP by 2000"]
+    }
+  },
+
+  "3":{
+    "name": "Small MP Potion",
+    "cost": 1000,
+    "spell":{
+      "detail": "Increase Player’s MP by 2",
+      "spell":["Increase Friendly Player MP by 2"]
+    }
+  },
+
+  "4":{
+    "name": "Medium MP Potion",
+    "cost": 2000,
+    "spell":{
+      "detail": "Increase Player’s MP by 4",
+      "spell":["Increase Friendly Player MP by 4"]
+    }
+  },
+
+  "5":{
+    "name": "Large MP Potion",
+    "cost": 4000,
+    "spell":{
+      "detail": "Increase Player’s MP by 8",
+      "spell":["Increase Friendly Player MP by 8"]
+    }
+  },
+
+  "6":{
+    "name": "Greater Restorative",
+    "cost": 4000,
+    "spell":{
+      "detail": "Increase Player’s HP by 1000 and MP by 4",
+      "spell":["Increase Friendly Player HP by 1000", "Increase Friendly Player MP by 4"]
+    }
+  },
+
+  "7":{
+    "name": "Lesser Restorative",
+    "cost": 2000,
+    "spell":{
+      "detail": "Increase Player’s HP by 500 and MP by 2",
+      "spell":["Increase Friendly Player HP by 500","Increase Friendly Player MP by 2"]
+    }
+  }
+}
